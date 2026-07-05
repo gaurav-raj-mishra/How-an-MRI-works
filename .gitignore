@@ -1,0 +1,17 @@
+# Manim output (regenerated from the scene sources)
+media/
+
+# Local preview renders (regenerable; kept out of git to avoid binary bloat)
+renders/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
